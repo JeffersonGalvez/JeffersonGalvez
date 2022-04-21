@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeffersonGalvez
-- 👀 I’m interested in building my data science portfolio for a data analytics career or Bioinformatician!
+- 👀 I’m interested in building my data science portfolio for a data analytics or bioinformatics career!
 - 🌱 I’m currently learning SQL, R, Python and Tableau
 - 💞️ I’m looking to collaborate on any project that will help grow and help someone with their problems!
 - 📫 You can rech me via email: jefferson.galvez97@gmail.com if you'd like to collaborate 
