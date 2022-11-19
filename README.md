@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JeffersonGalvez
-- 👀 I’m interested in building my data science portfolio for a data analytics/data science/biostatistics career!
-- 🌱 I’m currently learning SQL, R, Python and Tableau
-- 🚀 I’m looking to collaborate on any project that will help grow and help someone with their problems!
-- 📫 You can rech me via email: jefferson.galvez97@gmail.com if you'd like to collaborate 
+- 🌍 Hello world, I’m @JeffersonGalvez 
+- 🚀 Welcome/Bienvenue, to my GitHub! Here I will be showcasing my personal Data Analytics skills and projects
+- 🌱 I’m currently learning SQL, R, Python and Tableau to enhance my data analysis and coding skills 
+- 📫 Email: jefferson.galvez97@gmail.com | LinkedIn: https://www.linkedin.com/in/jefferson-galvez/
+- 💭 All constructive criticism is welcomed, thanks for dropping by!
 
 <!---
 JeffersonGalvez/JeffersonGalvez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
